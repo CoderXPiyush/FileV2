@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/CoderXPiyush/FileV2/blob/main/assets/pngtrans.png" alt="About Piyush Logo">
+  <img src="https://github.com/CoderXPiyush/FileV2/blob/main/assets/bot.png" alt="About Piyush Logo">
 </p>
 <h1 align="center">
   <b>About Piyush</b>
